@@ -1,0 +1,72 @@
+body{
+    
+}
+
+#main{
+    width:350px;
+    height:570px;
+    background-color: cadetblue;
+    margin: auto;
+    /* box-sizing: border-box; */
+}
+
+#Topbar{
+    width:100%;
+    height:50px;
+    background-color: blanchedalmond;
+
+}
+#Topbar-Right{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+
+#Icon{
+    margin:6px;
+}
+
+/* level 2 */
+
+
+#Logoset{
+  display: flex;
+ 
+
+}
+
+#logosetpart{
+font-size: 20px;
+padding:20px;
+
+margin: auto;
+}
+#image{
+    box-sizing: border-box;
+    width:190px;
+    margin-left:80px;
+    margin-top:40px;
+  
+
+
+}
+
+#timepart{
+    font-size:50px;
+    font-weight: 900;
+    margin-left:70px;
+    margin-top:40px;
+}
+#textpart{
+    margin:0px;
+    font-size: 30px;
+    margin-top: 30px;
+   
+}
+
+#textpart2{
+   
+    font-size: 30px;
+    margin-top: 60px;
+   
+}
